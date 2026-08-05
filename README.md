@@ -9,16 +9,9 @@ Full stack software developer focused on building reliable, well-structured web 
   <tr><td><b>Principles</b></td><td>Clean, maintainable code · Scalable architecture · Strong developer experience</td></tr>
   <tr><td><b>Currently Building</b></td><td>Word Lite — MS Word-inspired document editor · HTML EJS Transformer — dynamic PDF & chart rendering engine</td></tr>
   <tr><td><b>Repositories</b></td><td>Word_Doc · EJS_templates_PDF_generation · CarCure · AI-ImageChecker · DJANGO · resumecritique</td></tr>
-  <tr><td><b>Open Source</b></td><td>Yes</td></tr>
   <tr><td><b>Status</b></td><td>Available</td></tr>
 </table>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
-
-<br/>
-
 ## ⟡ Featured Projects
 
 <table width="100%">
