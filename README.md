@@ -12,6 +12,7 @@ Full stack software developer focused on building reliable, well-structured web 
   <tr><td><b>Status</b></td><td>Available</td></tr>
 </table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
+
 ## ⟡ Featured Projects
 
 <table width="100%">
@@ -75,6 +76,7 @@ Full stack software developer focused on building reliable, well-structured web 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
 
 <br/>
+
 ## ⟡ Connect
 
 <div align="center">
@@ -91,7 +93,3 @@ Full stack software developer focused on building reliable, well-structured web 
     <img src="https://img.shields.io/badge/Email-1a3d1a?style=for-the-badge&logo=gmail&logoColor=7dd3fc&labelColor=000000" />
   </a>
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3d1a,50:0d1f0d,100:000000&height=120&section=footer" width="100%"/>
