@@ -38,8 +38,6 @@ Full stack software developer focused on building reliable, well-structured web 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/>
 
-<br/>
-
 ## ⟡ Tech Stack
 
 <table width="100%">
@@ -74,8 +72,6 @@ Full stack software developer focused on building reliable, well-structured web 
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
-
-<br/>
 
 ## ⟡ Connect
 
