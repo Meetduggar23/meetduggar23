@@ -1,7 +1,7 @@
 # I’VE BUILT FREE STUFF.
 
 <p align="center">
-  <strong>Full Stack Developer · AI/ML Developer · Software Builder</strong>
+  <strong>Full Stack Developer · AI/ML · Software Builder</strong>
 </p>
 
 <p align="center">
@@ -563,43 +563,6 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse,aws&theme=dark">
 </p>
-
----
-
-## ⟡ What I Build
-
-```text
-AI / ML
-├── LLM Applications
-├── Generative AI
-├── Computer Vision
-├── AI Agents
-├── TensorFlow
-└── AI Evaluation
-
-FULL STACK
-├── React / TypeScript
-├── Node.js / Express
-├── Django / DRF
-├── REST APIs
-└── Responsive Web Applications
-
-DEVELOPER TOOLS
-├── JSON Tooling
-├── Document Editors
-├── LaTeX Workflows
-├── PDF Generation
-└── Productivity Applications
-
-ANDROID
-├── Java
-├── Kotlin
-├── OCR
-├── Document Processing
-└── Android Studio
-```
-
----
 
 ## ⟡ Achievements
 
