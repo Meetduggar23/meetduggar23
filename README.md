@@ -1,5 +1,3 @@
-# ⟡ Meet Duggar
-
 # I’VE BUILT FREE STUFF.
 
 Bachelor of Computer Applications — Undergraduate
