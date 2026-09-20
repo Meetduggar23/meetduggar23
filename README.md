@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="https://meet-duggar23.vercel.app/" target="_blank">
+    <img src="./logonew.png" width="90" alt="Meet Duggar Portfolio Logo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://meet-duggar23.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-1a3d1a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Explore my work, projects, experience &amp; more →</sub>
+</p>
+
+
 # I’VE BUILT FREE STUFF.
 
 <p align="center">
