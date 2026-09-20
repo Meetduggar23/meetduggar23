@@ -10,11 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>Explore my work, projects, experience &amp; more <img src="https://api.iconify.design/lucide:arrow-right.svg?color=%23ffffff" width="16" height="16" alt="Arrow right"></sub>
-</p>
-
-# I’VE BUILT FREE STUFF.
+<h1 align="center">I’VE BUILT FREE STUFF.</h1>
 
 <p align="center">
   <strong>Full Stack Developer · AI/ML · Software Builder</strong>
