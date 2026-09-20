@@ -486,7 +486,7 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 
 <p align="center">
 
-<a href="https://github.com/Meetduggar23">
+<a href="https://github.com/Meetduggar23?tab=repositories">
 <img src="https://img.shields.io/badge/Explore_All_Repositories-1a3d1a?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
