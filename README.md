@@ -13,10 +13,6 @@
 <h1 align="center">Meet Duggar</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · AI/ML · Software Builder</strong>
-</p>
-
-<p align="center">
   Building practical software across <strong>AI/ML, full-stack web development, developer tools, document editors, Android applications, and automation.</strong>
 </p>
 
@@ -38,21 +34,21 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#experience">Experience</a> ·
-  <a href="#featured-projects">Featured Projects</a> ·
-  <a href="#ai--machine-learning">AI/ML</a> ·
-  <a href="#android-applications">Android</a> ·
-  <a href="#web-applications">Web</a> ·
-  <a href="#tech-stack">Tech Stack</a> ·
-  <a href="#achievements">Achievements</a> ·
-  <a href="#lets-connect">Contact</a>
+  <a href="#about"><img src="https://img.shields.io/badge/About-1a3d1a?style=flat-square&logoColor=white"></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-1a3d1a?style=flat-square&logoColor=white"></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-1a3d1a?style=flat-square&logoColor=white"></a>
+  <a href="#ai--machine-learning"><img src="https://img.shields.io/badge/AI%2FML-1a3d1a?style=flat-square&logoColor=white"></a>
+  <a href="#android-applications"><img src="https://img.shields.io/badge/Android-1a3d1a?style=flat-square&logoColor=white"></a>
+  <a href="#web-applications"><img src="https://img.shields.io/badge/Web-1a3d1a?style=flat-square&logoColor=white"></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-1a3d1a?style=flat-square&logoColor=white"></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/Achievements-1a3d1a?style=flat-square&logoColor=white"></a>
+  <a href="#lets-connect"><img src="https://img.shields.io/badge/Contact-1a3d1a?style=flat-square&logoColor=white"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
 
 <a id="about"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> About
+## <img src="https://api.iconify.design/lucide:user-round.svg?color=%237dd3fc" width="20" height="20" alt="About"> About
 
 <table width="100%">
 <tr>
@@ -70,13 +66,13 @@ Currently pursuing a **Bachelor of Computer Applications** at **Symbiosis Instit
 
 ### What I Build
 
-* AI-powered applications
-* Full-stack web applications
-* Developer tools
-* Document editors
-* AI/ML projects
-* Android applications
-* Automation & productivity tools
+<img src="https://api.iconify.design/lucide:sparkles.svg?color=%237dd3fc" width="14" height="14" alt=""> AI-powered applications
+<br><img src="https://api.iconify.design/lucide:globe.svg?color=%237dd3fc" width="14" height="14" alt=""> Full-stack web applications
+<br><img src="https://api.iconify.design/lucide:wrench.svg?color=%237dd3fc" width="14" height="14" alt=""> Developer tools
+<br><img src="https://api.iconify.design/lucide:file-text.svg?color=%237dd3fc" width="14" height="14" alt=""> Document editors
+<br><img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%237dd3fc" width="14" height="14" alt=""> AI/ML projects
+<br><img src="https://api.iconify.design/lucide:smartphone.svg?color=%237dd3fc" width="14" height="14" alt=""> Android applications
+<br><img src="https://api.iconify.design/lucide:workflow.svg?color=%237dd3fc" width="14" height="14" alt=""> Automation & productivity tools
 
 </td>
 </tr>
@@ -85,7 +81,7 @@ Currently pursuing a **Bachelor of Computer Applications** at **Symbiosis Instit
 ---
 
 <a id="experience"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Experience
+## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%237dd3fc" width="20" height="20" alt="Experience"> Experience
 
 ### GritWorks AI
 
@@ -124,7 +120,7 @@ Currently pursuing a **Bachelor of Computer Applications** at **Symbiosis Instit
 ---
 
 <a id="featured-projects"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Featured Projects
+## <img src="https://api.iconify.design/lucide:star.svg?color=%237dd3fc" width="20" height="20" alt="Featured Projects"> Featured Projects
 
 <table width="100%">
 <tr>
@@ -229,7 +225,7 @@ AI-powered image analysis project exploring computer-vision-based image processi
 ---
 
 <a id="ai--machine-learning"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> AI / Machine Learning
+## <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%237dd3fc" width="20" height="20" alt="AI / Machine Learning"> AI / Machine Learning
 
 <table width="100%">
 <tr>
@@ -276,7 +272,7 @@ AI-focused application exploring intelligent music-related functionality.
 ---
 
 <a id="android-applications"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Android Applications
+## <img src="https://api.iconify.design/lucide:smartphone.svg?color=%237dd3fc" width="20" height="20" alt="Android Applications"> Android Applications
 
 <table width="100%">
 <tr>
@@ -317,7 +313,7 @@ Document scanning application featuring edge detection, image enhancement, OCR t
 ---
 
 <a id="web-applications"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Web Applications
+## <img src="https://api.iconify.design/lucide:globe.svg?color=%237dd3fc" width="20" height="20" alt="Web Applications"> Web Applications
 
 <table width="100%">
 <tr>
@@ -401,7 +397,7 @@ Email validation application.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> College Projects
+## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%237dd3fc" width="20" height="20" alt="College Projects"> College Projects
 
 <table width="100%">
 <tr>
@@ -435,7 +431,7 @@ Interactive quiz application featuring multiple-choice questions and scoring.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Resume & AI Tools
+## <img src="https://api.iconify.design/lucide:file-search.svg?color=%237dd3fc" width="20" height="20" alt="Resume & AI Tools"> Resume & AI Tools
 
 <table width="100%">
 <tr>
@@ -497,7 +493,7 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> More Projects
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%237dd3fc" width="20" height="20" alt="More Projects"> More Projects
 
 <p align="center">
 <a href="https://github.com/Meetduggar23?tab=repositories">
@@ -546,7 +542,7 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 ---
 
 <a id="tech-stack"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Tech Stack
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%237dd3fc" width="20" height="20" alt="Tech Stack"> Tech Stack
 
 ### Languages
 <p>
@@ -564,7 +560,15 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 </p>
 
 ### AI / ML
-`TensorFlow` · `LangChain` · `LangGraph` · `DeepEval` · `LLM Applications` · `Prompt Engineering` · `Generative AI` · `Computer Vision`
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1a3d1a?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/DeepEval-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/LLM_Applications-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Prompt_Engineering-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Generative_AI-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Computer_Vision-1a3d1a?style=flat-square&logoColor=white">
+
 
 ### Databases
 <p>
@@ -579,7 +583,7 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 ---
 
 <a id="achievements"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Achievements
+## <img src="https://api.iconify.design/lucide:award.svg?color=%237dd3fc" width="20" height="20" alt="Achievements"> Achievements
 
 <table width="100%">
 <tr>
@@ -628,27 +632,26 @@ Participated in the **Institution's Innovation Council Internal Hackathon** orga
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Relevant Courses
+## <img src="https://api.iconify.design/lucide:book-open.svg?color=%237dd3fc" width="20" height="20" alt="Relevant Courses"> Relevant Courses
 
 <p align="center">
-
-`Claude API` ·
-`Agent Skills` ·
-`Model Context Protocol` ·
-`Claude Code in Action` ·
-`Data Analytics` ·
-`Generative AI` ·
-`Digital Marketing` ·
-`Microsoft Excel` ·
-`Content & Script Creation` ·
-`Service Learning`
-
+<img src="https://img.shields.io/badge/Claude_API-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Agent_Skills-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Model_Context_Protocol-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Claude_Code_in_Action-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Analytics-1a3d1a?style=flat-square&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Generative_AI-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Digital_Marketing-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-1a3d1a?style=flat-square&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Content_%26_Script_Creation-1a3d1a?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Service_Learning-1a3d1a?style=flat-square&logoColor=white">
 </p>
 
 ---
 
 <a id="lets-connect"></a>
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Let's Connect
+## <img src="https://api.iconify.design/lucide:send.svg?color=%237dd3fc" width="20" height="20" alt="Let's Connect"> Let's Connect
 
 <p align="center">
 
