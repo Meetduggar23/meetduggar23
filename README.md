@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://meet-duggar23.vercel.app/" target="_blank">
-    <strong><img src="https://api.iconify.design/lucide:external-link.svg?color=%23ffffff" width="16" height="16" alt="External link"> CLICK HERE TO VISIT MY PORTFOLIO</strong>
+    <strong><img src="https://api.iconify.design/lucide:external-link.svg?color=%23ffffff" width="16" height="16" alt="External link"> VIEW PORTFOLIO</strong>
   </a>
 </p>
 
-<h1 align="center">I’VE BUILT FREE STUFF.</h1>
+<h1 align="center">Meet Duggar</h1>
 
 <p align="center">
   <strong>Full Stack Developer · AI/ML · Software Builder</strong>
@@ -37,6 +37,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
 
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#featured-projects">Featured Projects</a> ·
+  <a href="#ai--machine-learning">AI/ML</a> ·
+  <a href="#android-applications">Android</a> ·
+  <a href="#web-applications">Web</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#achievements">Achievements</a> ·
+  <a href="#lets-connect">Contact</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
+
+<a id="about"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> About
 
 <table width="100%">
@@ -69,12 +84,12 @@ Currently pursuing a **Bachelor of Computer Applications** at **Symbiosis Instit
 
 ---
 
+<a id="experience"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Experience
 
 ### GritWorks AI
 
 **Full-Stack Software Development Intern · Pune, India**
-
 `Mar 2026 – Jul 2026`
 
 * Built and enhanced **LLM-based applications and conversational bot systems**.
@@ -87,7 +102,6 @@ Currently pursuing a **Bachelor of Computer Applications** at **Symbiosis Instit
 ### Oswal Engineers
 
 **Intern · Pune, India**
-
 `Aug 2023 – Oct 2023`
 
 * Created and managed Excel spreadsheets for data organization and reporting.
@@ -96,7 +110,6 @@ Currently pursuing a **Bachelor of Computer Applications** at **Symbiosis Instit
 ### Climate Troopers Foundation
 
 **Service Learning · Pune, India**
-
 `Jan 2025 – May 2025`
 
 * Contributed to community clean-up drives, tree plantation activities, and environmental awareness workshops.
@@ -110,6 +123,7 @@ Currently pursuing a **Bachelor of Computer Applications** at **Symbiosis Instit
 
 ---
 
+<a id="featured-projects"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Featured Projects
 
 <table width="100%">
@@ -214,6 +228,7 @@ AI-powered image analysis project exploring computer-vision-based image processi
 
 ---
 
+<a id="ai--machine-learning"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> AI / Machine Learning
 
 <table width="100%">
@@ -260,6 +275,7 @@ AI-focused application exploring intelligent music-related functionality.
 
 ---
 
+<a id="android-applications"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Android Applications
 
 <table width="100%">
@@ -272,7 +288,6 @@ AI-focused application exploring intelligent music-related functionality.
 Android application for managing and splitting expenses among groups.
 
 **Stack**
-
 `Java` · `Kotlin` · `Android Studio`
 
 <a href="https://github.com/Meetduggar23/Splitly-app">
@@ -288,7 +303,6 @@ Android application for managing and splitting expenses among groups.
 Document scanning application featuring edge detection, image enhancement, OCR text extraction, and multi-page PDF generation.
 
 **Stack**
-
 `Java` · `Kotlin` · `Android Studio`
 
 <a href="https://github.com/Meetduggar23/scanmaster">
@@ -302,6 +316,7 @@ Document scanning application featuring edge detection, image enhancement, OCR t
 
 ---
 
+<a id="web-applications"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Web Applications
 
 <table width="100%">
@@ -485,11 +500,9 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> More Projects
 
 <p align="center">
-
 <a href="https://github.com/Meetduggar23?tab=repositories">
 <img src="https://img.shields.io/badge/Explore_All_Repositories-1a3d1a?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 </p>
 
 <table width="100%">
@@ -497,7 +510,6 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 <td align="center">
 
 **AI / ML**
-
 `SONGly-AI` · `AI Agent` · `AI Whiteboard` · `AI Image Checker`
 
 </td>
@@ -507,7 +519,6 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 <td align="center">
 
 **Web**
-
 `SportSphere` · `CarTrace` · `DailyNews360` · `Team Meeting Scheduler`
 
 </td>
@@ -517,7 +528,6 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 <td align="center">
 
 **Developer Tools**
-
 `AI JSON Corrector` · `TexFlow` · `WORD` · `EJS PDF Generation`
 
 </td>
@@ -527,7 +537,6 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 <td align="center">
 
 **Applications**
-
 `CarCure` · `MiniBlog` · `Trivia Quiz` · `Splitly` · `ScanMaster`
 
 </td>
@@ -536,46 +545,40 @@ AI-focused browser project exploring AI-assisted browsing functionality.
 
 ---
 
+<a id="tech-stack"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Tech Stack
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,php,html,css&theme=dark">
 </p>
 
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark">
 </p>
 
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark">
 </p>
 
 ### AI / ML
-
-<p>
-
 `TensorFlow` · `LangChain` · `LangGraph` · `DeepEval` · `LLM Applications` · `Prompt Engineering` · `Generative AI` · `Computer Vision`
 
-</p>
-
 ### Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark">
 </p>
 
 ### Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse,aws&theme=dark">
 </p>
 
+---
+
+<a id="achievements"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Achievements
 
 <table width="100%">
@@ -644,6 +647,7 @@ Participated in the **Institution's Innovation Council Internal Hackathon** orga
 
 ---
 
+<a id="lets-connect"></a>
 ## <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" alt="Section"> Let's Connect
 
 <p align="center">
@@ -666,14 +670,10 @@ Participated in the **Institution's Innovation Council Internal Hackathon** orga
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
 
 <p align="center">
-
 <strong>Build. Break. Learn. Repeat.</strong>
-
 <br>
-
 <sub>Open source · AI · Full Stack · Always Building</sub>
-
 </p>
