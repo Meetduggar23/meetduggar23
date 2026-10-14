@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://meet-duggar23.vercel.app/" target="_blank">
-    <img src="./logo2.png" width="75" alt="Meet Duggar Portfolio">
+    <img src="./logo2.png" width="100" alt="Meet Duggar Portfolio">
   </a>
 </p>
 
