@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">Meet Duggar</h1>
+<h1 align="center">CLICK LOGO..</h1>
 
 <p align="center">
   <strong>AI/ML Engineer | Full Stack Software Developer</strong>
